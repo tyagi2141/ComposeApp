@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+
+    <!-- Home Tabs -->
+    <string name="home_feed">Home</string>
+    <string name="home_search">Search</string>
+    <string name="home_cart">My Cart</string>
+    <string name="home_profile">Profile</string>
+
+    <!-- Search -->
+    <string name="search_jetsnack">Search Jetsnack</string>
+    <string name="search_no_matches">No matches for “%1s”</string>
+    <string name="search_no_matches_retry">Try broadening your search</string>
+    <string name="search_count">%1d items</string>
+
+    <!-- Snack Detail -->
+    <string name="detail_header">Details</string>
+    <string name="detail_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud...</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="ingredients_list">Vanilla, Almond Flour, Eggs, Butter, Cream, Sugar</string>
+    <string name="quantity">Qty</string>
+    <string name="add_to_cart">ADD TO CART</string>
+</resources>
